@@ -12,6 +12,7 @@ To connect to the MySQL database on Aiven, configure the connection settings in 
 - spring.datasource.password=AVNS_v30vXyPCpuKNqUoj8jJ
 - scraper.start.url=https://books.toscrape.com/catalogue/category/books_1/index.html
 - scraper.firstPage.url=https://books.toscrape.com/catalogue/category/books_1/
+- spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 
 3. Install dependencies
 Make sure all necessary dependencies are installed using Maven:
