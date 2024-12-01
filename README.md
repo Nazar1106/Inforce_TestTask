@@ -1,3 +1,32 @@
+INFORCE Trainee Java Developer task
+Objective
+Build a functional web scraper application for the website Books to Scrape.
+Requirements
+1. Data Extraction
+○ Scrape the following data from the website using the appropriate selectors:
+■ Book title
+■ Price
+■ Availability Status
+■ Rating (if available)
+
+2. Data Storage
+○ Store the scraped data in a database. (The candidate can create a free
+PostgreSQL/MySQL instance using, for example, Aiven).
+
+3. Implementation Details
+○ You can build the application using either Plain Java or any framework with Java/Kotlin
+support (e.g., Spring Boot).
+
+4. Optionally
+○ Add a feature to scrape and store data from multiple pages (pagination support).
+
+Submission
+1. Provide the source code via a GitHub repository (ensure instructions for running the project are
+included in the README file).
+2. Share access to the database instance for data verification.
+3. Be prepared to discuss your implementation during the interview.
+
+
 Environment Setup
 Follow the instructions below to set up and run the project:
 
