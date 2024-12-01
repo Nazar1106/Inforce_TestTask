@@ -24,8 +24,6 @@ Submission
 1. Provide the source code via a GitHub repository (ensure instructions for running the project are
 included in the README file).
 2. Share access to the database instance for data verification.
-3. Be prepared to discuss your implementation during the interview.
-
 
 Environment Setup
 Follow the instructions below to set up and run the project:
